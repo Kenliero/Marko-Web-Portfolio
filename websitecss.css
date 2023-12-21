@@ -14,9 +14,9 @@
   border-radius: 50%;
 }
 
-.webpage {
+.webpagegrid {
   display: grid;
-  width: 100vh;
+  min-width: 100%;
   margin: 0;
   padding: 0;
 }
