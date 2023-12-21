@@ -11,8 +11,9 @@
 }
 
 .myphoto {
+  max-width: 7rem;
+  min-width: 4rem;  
   border-radius: 50%;
-  width: fit-content;
 }
 
 .webpagegrid {
