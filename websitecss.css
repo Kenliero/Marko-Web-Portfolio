@@ -3,12 +3,21 @@
   padding: 0;
 }
 
+.webpagegrid {
+  display: grid;
+  min-width: 100%;
+  height: 100vh;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  margin: 0;
+  padding: 0;
+}
+
 .markohero {
-  /* width:fit-content; */
   background-image: url("./images/bg-sch.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  /* height:fit-content; */
+  height: 100vh;
 }
 
 .myphoto {
@@ -31,18 +40,5 @@
   .webpagegrid {
     height: 100vh;
     }
-
-  .markohero {
-    height: 100vh;
-    }
 }
 
-.webpagegrid {
-  display: grid;
-  min-width: 100%;
-  height: auto;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  margin: 0;
-  padding: 0;
-}
