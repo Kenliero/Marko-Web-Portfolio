@@ -1,7 +1,21 @@
+.html {
+  margin: 0;
+  padding: 0;
+}
+
+.markohero {
+  background-image: url('./images/bg-pexels-bri-schneiter-346529.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .myphoto {
   border-radius: 50%;
 }
 
 .webpage {
   display: grid;
+  width: 100vh;
+  margin: 0;
+  padding: 0;
 }
