@@ -4,11 +4,11 @@
 }
 
 .markohero {
-  width:fit-content;
+  /* width:fit-content; */
   background-image: url("./images/bg-sch.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height:fit-content;
+  /* height:fit-content; */
 }
 
 .myphoto {
