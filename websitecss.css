@@ -12,11 +12,13 @@
 
 .myphoto {
   border-radius: 50%;
+  width: fit-content;
 }
 
 .webpagegrid {
   display: grid;
   /* min-width: 100%; */
+  min-width: 100%;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   margin: 0;
