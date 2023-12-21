@@ -16,6 +16,18 @@
   border-radius: 50%;
 }
 
+@media (max-width: 850px) {
+  .myphoto {
+    width: 3rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .myphoto {
+    width: 2rem;
+  }
+}
+
 .webpagegrid {
   display: grid;
   /* min-width: 100%; */
