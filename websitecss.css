@@ -21,20 +21,20 @@
 }
 
 .myphoto {
-  width: 150px;
+  width: 160px;
   height: auto;
   border-radius: 50%;
 }
 
 @media screen and (max-width: 850px) {
   .myphoto {
-    width: 100px;
+    width: 120px;
   }
 }
 
 @media screen and (max-width: 450px) {
   .myphoto {
-    width: 50px;
+    width: 75px;
   }
 }
 
