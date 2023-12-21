@@ -11,20 +11,19 @@
 }
 
 .myphoto {
-  max-width: 7rem;
-  min-width: 4rem;  
+  width: 150px;
   border-radius: 50%;
 }
 
 @media (max-width: 850px) {
   .myphoto {
-    width: 3rem;
+    width: 100px;
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 450px) {
   .myphoto {
-    width: 2rem;
+    width: 50px;
   }
 }
 
