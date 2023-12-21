@@ -4,7 +4,7 @@
 }
 
 .markohero {
-  width:100vh;
+  width:fit-content;
   background-image: url("./images/bg-sch.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,7 +16,9 @@
 
 .webpagegrid {
   display: grid;
-  min-width: 100%;
+  /* min-width: 100%; */
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
   margin: 0;
   padding: 0;
 }
