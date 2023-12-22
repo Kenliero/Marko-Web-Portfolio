@@ -16,7 +16,7 @@
 }
 
 .markoproject {
-  background-image: url("../images/bg-pexels-johannes-plenio-1103970.jpg");
+  background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover; 
@@ -28,7 +28,7 @@
 }
 
 .markoresume {
-  background-image: url("../images/bg-pexels-johannes-plenio-1103970.jpg");
+  background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover; 
@@ -39,9 +39,10 @@
 	overflow-y: visible;  
 }
 
+/*
 .navflex {
-  position: fixed;  
-}
+  position: fixed;
+} */
 
 .myphoto {
   width: 160px;
