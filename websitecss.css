@@ -37,14 +37,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover;
-  height: 100vh; 
+  height: 100%; 
 }
 
 .markoproject {
   background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   object-fit: cover;  
 }
 
@@ -52,7 +52,7 @@
   background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
   object-fit: cover;  
 }
 
