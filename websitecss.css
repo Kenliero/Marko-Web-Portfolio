@@ -12,6 +12,15 @@
   margin: 0;
 }
 
+.projectgrid {
+  /* display: grid; */
+  min-width: 100%;
+  height: 100vh;
+  margin: 0;  
+  /* grid-template-columns: 1fr;
+  grid-template-rows: 1fr; */
+}
+
 .resumegrid {
   display: grid;
   min-width: 100%;
