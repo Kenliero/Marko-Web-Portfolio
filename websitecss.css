@@ -24,7 +24,8 @@
   margin: 0;  
 	overflow-x: hidden;
 	overflow-y: visible;  
-  object-fit: cover; 
+  /* object-fit: cover; */
+  object-fit: fill; 
 }
 
 .markoresume {
