@@ -13,6 +13,16 @@
   padding: 0;
 }
 
+.resumegrid {
+  display: grid;
+  min-width: 100%;
+  height: 100vh;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  margin: 0;
+  padding: 0;
+}
+
 .markohero {
   background-image: url("./images/bg-sch.jpg");
   background-repeat: no-repeat;
