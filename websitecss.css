@@ -36,7 +36,8 @@
   background-image: url("./images/bg-sch.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  object-fit: cover;
+  height: 100vh; 
 }
 
 .markoproject {
