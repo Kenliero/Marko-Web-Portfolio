@@ -6,8 +6,8 @@
 .projectgrid {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
-  background-color: rgb(40, 92, 116);
+  grid-template-rows: 1fr 1fr;
+  background-color: rgb(19, 60, 79);
   gap: 2px;
 }
 
