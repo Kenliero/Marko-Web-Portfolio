@@ -37,6 +37,13 @@
   height: 100vh;
 }
 
+.markoproject {
+  background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
 .markoresume {
   background-image: url("./images/bg-pexels-johannes-plenio-1103970.jpg");
   background-repeat: no-repeat;
