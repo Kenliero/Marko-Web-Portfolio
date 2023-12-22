@@ -9,8 +9,7 @@
   grid-template-rows: 1fr 1fr 1fr;
   background-color: rgb(19, 60, 79);
   gap: 2px;
-  border: 2px;
-  border-color: white;
+  border: 2px white solid;
 }
 
 .smallpic {
