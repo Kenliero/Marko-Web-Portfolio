@@ -63,7 +63,7 @@
 
 .navbutton {
   position: fixed;
-  top: 5%; /* 5% test */
+  top: 1%; /* 1% test */
   left: 50%;
   transform: translateX(-50%); 
 }
