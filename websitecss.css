@@ -107,6 +107,10 @@ body, html {
   width: 100vh;
 }
 
+.innercaro {
+  align-items: top;
+}
+
 
 .navbutton {
   position: fixed;
