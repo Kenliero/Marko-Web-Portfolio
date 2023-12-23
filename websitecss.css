@@ -92,6 +92,17 @@ body, html {
   /* transform: translateX(-50%); */
 }
 
+.caroflex {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;  
+}
+
 .navbutton {
   position: fixed;
   top: 1%; /* 1% test */
