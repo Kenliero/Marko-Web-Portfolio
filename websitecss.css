@@ -132,7 +132,8 @@ body, html {
   }
 
   .carouresizing {
-    width: 75vh;
+    margin: 10%;
+    width: 65vh;
   }  
 
 }
@@ -147,6 +148,7 @@ body, html {
   }
 
   .carouresizing {
+    margin: 10%;
     width: 90vh;
   }    
 
