@@ -65,17 +65,17 @@ body, html {
   text-decoration: underline;
 }
 
-.myphoto {
-  max-width: 150px;
-  height: auto;
-  border-radius: 50%;
-}
-
 .navbutton {
   position: fixed;
   top: 1%; /* 1% test */
   left: 50%;
   transform: translateX(-50%); 
+}
+
+.myphoto {
+  max-width: 150px;
+  height: auto;
+  border-radius: 50%;
 }
 
 @media screen and (max-width: 850px) {
