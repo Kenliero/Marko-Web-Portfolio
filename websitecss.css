@@ -75,6 +75,13 @@ body, html {
   font-size: large;
 }
 
+.hobbylist {
+  /* top: 1%; */
+  width: 40%;
+  left: 50%;
+  transform: translateX(-50%); 
+}
+
 .navbutton {
   position: fixed;
   top: 1%; /* 1% test */
@@ -92,11 +99,21 @@ body, html {
   .myphoto {
     width: 120px;
   }
+
+  .hobbylist {
+    width: 60%;
+  }
+
 }
 
 @media screen and (max-width: 450px) {
   .myphoto {
     width: 75px;
   }
+
+  .hobbylist {
+    width: 80%;
+  }
+
 }
 
