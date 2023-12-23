@@ -60,6 +60,10 @@ body, html {
 	overflow-y: visible;  
 }
 
+.maintopic {
+  text-shadow: 1px 1px 2px black;
+}
+
 .shadowtopic {
   text-shadow: 1px 1px 2px black;
   text-decoration: underline;
