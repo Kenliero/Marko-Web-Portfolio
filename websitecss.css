@@ -6,7 +6,8 @@
 .projectgrid {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: repeat(auto-fill);
+  /* grid-template-rows: 1fr 1fr 1fr; */
   background-color: rgb(19, 60, 79);
   justify-content: space-around;
   width: 80%;
@@ -14,8 +15,9 @@
   border: 2px white solid;
 }
 
-.smallpic {
-  width: 50px;
+.grid-item p {
+  word-wrap: break-word; /* This property allows long words to be broken and wrap onto the next line */
+  white-space: normal;
 }
 
 .markohero {
