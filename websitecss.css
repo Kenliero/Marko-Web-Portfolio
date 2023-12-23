@@ -7,8 +7,7 @@ body, html {
 .projectgrid {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: repeat(auto-fill);
-  /* grid-template-rows: 1fr 1fr 1fr; */
+  grid-template-rows: repeat(auto-fit, minmax(50px, 1fr));
   background-color: rgb(19, 60, 79);
   justify-content: space-around;
   width: 80%;
