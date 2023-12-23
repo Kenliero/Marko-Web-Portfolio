@@ -77,9 +77,10 @@ body, html {
 
 .hobbylist {
   display: flex;
+  position: relative;
   justify-content: center;
   align-items: center;
-  /* width: 40%; */
+  width: 100%;
   /* left: 50%; */
   /* transform: translateX(-50%); */
 }
