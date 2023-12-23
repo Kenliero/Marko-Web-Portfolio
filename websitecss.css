@@ -98,7 +98,8 @@ body, html {
   justify-content: center;
   align-items: top;
   width: 100%;
-  height: auto;
+  height: 100%;
+  position: top;
   margin-top: 4%;
   padding: 0;  
 }
