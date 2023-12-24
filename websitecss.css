@@ -114,6 +114,17 @@ body, html {
   transform: translateX(-50%); 
 }
 
+.carouresizing-wrapper {
+  position: relative;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .myphoto {
   max-width: 150px;
   height: auto;
